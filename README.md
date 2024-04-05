@@ -22,7 +22,7 @@ The project is organized into the following folders:
 1. Ensure you have Python 3 and CustomTkinter installed. You can install CustomTkinter using `pip install customtkinter`.
 2. Clone the repository, open a terminal or command prompt and navigate to the project directory.
 3. Run the application using `python main.py`.
-
+![IMAGE](https://github.com/kshitij-bhardwaj/Sparta/blob/main/media/sparta_img.png)
 ### Demo Videos (Future Implementation)
 
 * **System Overview** 
@@ -31,6 +31,7 @@ The project is organized into the following folders:
 * **Viewing Booking History**
 * **Cancelling Booked Slot**
 
+![DEMO GIF](https://github.com/kshitij-bhardwaj/Sparta/blob/main/media/sparta_vid.gif)
 ### Contributing
 
 Welcome contributions to this project! If you have any suggestions or bug fixes, feel free to create a pull request.
